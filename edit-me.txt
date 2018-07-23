@@ -1,1 +1,3 @@
 hello
+does it autosave wben clicking on terminal
+
